@@ -10,7 +10,7 @@ Proyecto académico de la asignatura Machine Learning de la Universidad Mayor. E
 **Docente:** Franco Andres Mansilla  
 **Fecha:** 24-08-2026
 
-> Nota académica: la pauta solicita un grupo de mínimo tres integrantes. Antes de la entrega debe incorporarse el tercer integrante o confirmarse una excepción con el docente.
+
 
 ## Contenido
 
